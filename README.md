@@ -8,3 +8,6 @@ weather (in form of a image), temperature, humidity and wind speed. The data is
 queried from OpenWeatherMap.org using thier API. To be able to run the code you 
 need to make sure you have an API key from them and put it in the const *API_KEY*
 in the file index.html.
+
+This app has been created following a GreatStack tutorial on YouTube, 
+https://www.youtube.com/watch?v=MIYQR-Ybrn4
